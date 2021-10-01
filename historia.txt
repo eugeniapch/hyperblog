@@ -4,4 +4,6 @@ Freddy Vega tiene 32 años y nacio en Colombia
 
 Gaby tiene 20 añosos y nacio en Nicaragua y colabora en este proyecto open source.
 
+Master 1 -> Para hacer pruebas de rebase 
+
 Mañana nos enfocaremos en su vida laboral.
