@@ -6,6 +6,8 @@ Gaby tiene 20 añosos y nacio en Nicaragua y colabora en este proyecto open sour
 
 Experimento 1 -> continuando con las pruebas de rebase en la rama experimento.
 
+Experimento 2 -> continuando con las pruebas de rebase en la rama experimento.
+
 Master 1 -> Para hacer pruebas de rebase 
 
 Master 2 -> continuando nuestras pruebas de rebase.
